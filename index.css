@@ -1,0 +1,20 @@
+.title-content{
+    color: red;
+    size: 50px;
+    
+}
+
+.table {
+    border: 2px solid #d41d1d;
+}
+
+.header {
+    border-bottom: 2px solid #8b1dd4;
+    justify-content: space-between;
+}
+
+.link1 {
+    text-decoration: none;
+    margin: 280px;
+}
+
