@@ -102,5 +102,3 @@
 //const key = 'languages'
 //console.log(person[key])
 //person.greet()
-
-const wine = ['beloye','krasnoe']
