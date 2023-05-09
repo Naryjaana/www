@@ -25,4 +25,5 @@ body {
 .list {
     font-weight: bold;
     font-style: italic;
+    text-align: justify;
 }
